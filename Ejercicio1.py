@@ -5,7 +5,6 @@
 #3. Determine cuál es el producto con el mayor total de ventas.
 #4. Encuentre el precio promedio de los productos vendidos.
 
-
 import pandas as pd
 
 # Lo primero seria cargar los datos
